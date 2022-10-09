@@ -1,0 +1,7 @@
+{"posts":[
+{"id":1,"message":"Hello"},
+{"id":2,"message":"Hello World, my name is satya"}, 
+{"id":3,"message":"hello this is a 3rd msg", "name":"P1"},
+{"id":3,"message":"hello this is a 3rd msg"},{"id":3,"message":"hello this is a 3rd msg"}
+]
+}
